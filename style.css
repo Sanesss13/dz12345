@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto
+}
+.container2 {
+height: 760px;
+background: #F1E4E6;
+margin: 0 auto;
+display: flex;
+}
+.brendtext {
+    padding-top: 290px;
+}
+.brendtext2 {
+    padding-bottom: 381px;
+    padding-right: 100px;
+}
+.stolb {
+    padding-left: 63px;
+    padding-top: 286px;
+}
+.content {
+    margin-top: 64px;
+    height: 470px;
+}
+.flex {
+    justify-content: space-around;
+    display: flex;
+}
+.header {
+    height: 75px;
+    background-color: #222222;
+    color: #ffffff;
+    
+}
+.column {
+flex-direction: column;
+padding-left: 16px;
+}
+.item {
+    height: 260px ;
+    width: 360px;
+    border: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-blend-mode: multiply;
+    background-image: url(photo/Layer\ 43.svg);
+    background-color: #211616B2;
+}
+.podval {
+    height: 341px;
+    background-color: #222222;
+    margin-top: 95.5px;
+    color: #ffffff;
+}
+.text {
+    font-family: Lato;
+   color: #FFFFFF;
+}
+.text2 {
+    font-family: Lato;
+    color:	#F08080;
+}
+.dva {
+    background-image: url(photo/Rectangle\ 30.svg);
+}
+.tri {
+    background-image: url(photo/Rectangle\ 30\ \(1\).svg);
+}
+.chet {
+    background-image: url(photo/Rectangle\ 20.svg);
+    height: 180px;
+width: 1160px;
+margin-top: 30px;
+margin-left: 20px;
+}
+.headerphoto {
+    margin-top: 18px;
+    margin-bottom: 19px;
+}
+.headerphoto2 {
+    margin-left: 41px;
+    margin-bottom: 20px;
+}
+.headerphoto3 {
+    margin-top: 16px;
+    margin-right: 33px;
+    margin-bottom: 20px;
+}
+.headerphoto31 {
+    margin-top: 20           px;
+    margin-left: 859px;
+    margin-right: 33px;
+    margin-bottom: 20px;
+}
